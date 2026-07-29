@@ -1,92 +1,48 @@
+<p align="center">
+  <img src="../assets/deviance-recruitment-banner.jpg" width="100%" alt="DEViance Intelligence — Built different? You belong at DEViance.">
+</p>
+
 # DEViance Intelligence
 
+## Built different? Good.
 
+We are looking for the next generation of **developers, vibecoders, and
+researchers** — people who see what could exist and cannot wait for permission
+to build it.
 
-**Intelligence beyond the edge.**
+If the normal path never fit you, DEViance is where you need to be.
 
+> **We do not care what your title is. We care what you can make real.**
 
+### Who belongs here
 
-DEViance Intelligence is a software house, AI research studio, and applied intelligence lab building systems at the edge of what software can become.
+| Your signal | What it looks like |
+|---|---|
+| **Developer** | You see the system and make it survive contact with reality. |
+| **Vibecoder** | You turn intent into momentum before the category has a name. |
+| **Researcher** | You ask the question that changes the map. |
 
+### What we make
 
+- AI-native products that do more than decorate an old workflow
+- agentic systems that can be inspected, tested, and trusted
+- research prototypes that force a new question
+- tools for builders moving faster than the category around them
 
-We design, research, and ship intelligent products — from automation and agentic workflows to AI-native platforms, data systems, edge systems, and experimental interfaces.
+### The only application that matters
 
+Show us the strange thing you built because it needed to exist.
 
+No pedigree theater. No innovation vocabulary. Send the repository, the
+prototype, the experiment, or the question you cannot leave alone.
 
-## What we build
-
-
-
-- AI-powered software products
-
-- Agentic systems and autonomous workflows
-
-- Research prototypes and experimental AI interfaces
-
-- Data intelligence platforms
-
-- Automation infrastructure
-
-- Developer tools and internal systems
-
-- Edge intelligence and adaptive software architectures
-
-
-
-## Research areas
-
-
-
-- Artificial intelligence
-
-- Multi-agent systems
-
-- Human-AI collaboration
-
-- Applied automation
-
-- Cognitive interfaces
-
-- Edge computing and distributed intelligence
-
-- Software architecture for AI-native products
-
-
-
-## Philosophy
-
-
-
-We believe intelligence should not be locked inside static tools.
-
-
-
-Software should learn, adapt, reason, and collaborate.
-
-
-
-DEViance exists to explore that frontier — building systems that move beyond conventional software and toward operational intelligence.
-
-
-
-## Work with us
-
-
-
-We partner with founders, companies, researchers, and builders who want to create AI-native products, intelligent automation systems, and experimental software.
-
-
-
-If you're building beyond the edge, we're interested.
-
-
+**[Enter the work](https://github.com/maxkle1nz/deviance.dev)** ·
+**[Meet the founder](https://github.com/maxkle1nz)**
 
 ---
 
+<p align="center">
+  <img src="../assets/deviance-prism-icon.png" width="96" alt="DEViance prism">
+</p>
 
-
-**DEViance Intelligence**  
-
-*Intelligence beyond the edge.*
-
+<p align="center"><strong>IF YOU ARE BUILT DIFFERENT, YOU BELONG AT DEVIANCE.</strong></p>
