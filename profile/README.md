@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="../assets/deviance-wordmark.png" width="420" alt="DEViance.dev">
+  <img src="../assets/deviance-footer-wordmark.png" width="161" alt="DEViance.dev">
 </p>
 
 # DEViance Intelligence
