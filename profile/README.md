@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/deviance-recruitment-banner.jpg" width="100%" alt="DEViance Intelligence — Built different? You belong at DEViance.">
+  <img src="../assets/deviance-recruitment-banner-v2.jpg" width="100%" alt="DEViance Intelligence — Built different? You belong at DEViance.">
 </p>
 
 <p align="center">
