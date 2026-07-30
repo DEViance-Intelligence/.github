@@ -2,6 +2,10 @@
   <img src="../assets/deviance-recruitment-banner.jpg" width="100%" alt="DEViance Intelligence — Built different? You belong at DEViance.">
 </p>
 
+<p align="center">
+  <img src="../assets/deviance-wordmark.png" width="420" alt="DEViance.dev">
+</p>
+
 # DEViance Intelligence
 
 ## Built different? Good.
@@ -38,11 +42,5 @@ prototype, the experiment, or the question you cannot leave alone.
 
 **[Enter the work](https://github.com/maxkle1nz/deviance.dev)** ·
 **[Meet the founder](https://github.com/maxkle1nz)**
-
----
-
-<p align="center">
-  <img src="../assets/deviance-prism-icon.png" width="96" alt="DEViance prism">
-</p>
 
 <p align="center"><strong>IF YOU ARE BUILT DIFFERENT, YOU BELONG AT DEVIANCE.</strong></p>
